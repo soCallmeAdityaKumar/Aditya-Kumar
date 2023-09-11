@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soCallmeAdityaKumar&show_icons=true&locale=en" alt="soCallmeAdityaKumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soCallmeAdityaKumar&" alt="soCallmeAdityaKumar" /></p>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soCallmeAdityaKumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
