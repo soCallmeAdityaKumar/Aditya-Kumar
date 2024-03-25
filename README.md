@@ -41,7 +41,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and develops some exciting projects <br/><br/>
+ ✌️ &emsp; Enjoy to do programming ,develops some exciting projects and contribute to Open Source projects <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: adi54321kumar@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything 
