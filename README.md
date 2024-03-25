@@ -17,7 +17,7 @@
 
 <h2 align="center"> 
   <samp>
-    「 I am a passionate Software developer from <b>India</b> 」
+    「 I am a Prefinal year Student at IIT Dhanbad,India 」
     <br/>
   </samp>
 </h2>
