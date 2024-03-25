@@ -1,29 +1,118 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">A passionate Android developer from India, GSoC Intern 2023</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soCallmeAdityaKumar&label=Profile%20views&color=0e75b6&style=flat" alt="soCallmeAdityaKumar" /> </p>
+<a href="https://komarev.com/ghpvc/?username=soCallmeAdityaKumar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=soCallmeAdityaKumar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soCallmeAdityaKumar" alt="soCallmeAdityaKumar" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, React**
+[![walkatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-- 💬 Ask me about **Kotlin, Android Development , GSOC**
+<!-- Intro  -->
+<h2 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank">Aditya Kumar</a></b>
+        </samp>
+</h2>
 
-- 📫 How to reach me **adi54321kumar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adi54321kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi54321kumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/aditya-kumar-86a039227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditya-kumar-86a039227" height="30" width="40" /></a>
+<h3 align="center"> 
+  <samp>
+    「 I am a passionate Software developer from <b>India</b> <b> GSoC'23 Intern </b> @ Liquid Galaxy Project 」
+    <br/>
+  </samp>
+</h3>
+
+<p align="center">
+ <a href="https://linkedin.com/in/al-siam](https://www.linkedin.com/in/aditya-kumar-86a039227/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://twitter.com/adi54321kumar" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+</p>
+<br />
+
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and develops some exciting projects <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: adi54321kumar@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything 
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soCallmeAdityaKumar&show_icons=true&locale=en&layout=compact" alt="soCallmeAdityaKumar" /></p>
+## Use To Code
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soCallmeAdityaKumar&show_icons=true&locale=en" alt="soCallmeAdityaKumar" /></p>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soCallmeAdityaKumar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<br/>
+
+## Tools 
+
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+
+## Top Projects -
+[![Google-Developers-Community-Visualization-Tool](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Google-Developers-Community-Visualization-Tool&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Google-Developers-Community-Visualization-Tool)
+[![Gemini-Chat-APP](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Gemini-Chat-APP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
+[![Book-Restaurants-Seat-and-Order-Grocery](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Book-Restaurants-Seat-and-Order-Grocery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
+[![Netropolis](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Netropolis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
+<!--[![Netropolis](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Netropolis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Netropolis)
+-->
+<p align="left">
+  <a href="https://github.com/soCallmeAdityaKumar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/soCallmeAdityaKumar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soCallmeAdityaKumar&theme=radical&border=7F3FBF&background=0D1117" alt="Aditya's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/soCallmeAdityaKumar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soCallmeAdityaKumar&theme=radical" alt="Aditya's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/soCallmeAdityaKumar"><img alt="Aditya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=soCallmeAdityaKumar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/soCallmeAdityaKumar"><img alt="Aditya's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=soCallmeAdityaKumar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Aditya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=soCallmeAdityaKumar&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
