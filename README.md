@@ -41,10 +41,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- <h3>✌️ &emsp; <b>Google Summer of Code 2023 intern<b> @ Liquid Galaxy Project <br/><br/></h3>
- <h3>✔️ &emsp; Open source conrtibutor at <b>Ankidroid<b><br/><br/></h3>
- <h3>❤️ &emsp; Love to writing code and learning new features<br/><br/></h3>
- <h3>📧 &emsp; Reach me anytime: adi54321kumar@gmail.com<br/><br/></h3>
+ <h4>✌️ &emsp; <b>Google Summer of Code 2023 intern<b> @ Liquid Galaxy Project <br/><br/></h4>
+ <h4>✔️ &emsp; Open source conrtibutor at <b>Ankidroid<b><br/><br/></h4>
+ <h4>❤️ &emsp; Love to writing code and learning new features<br/><br/></h4>
+ <h4>📧 &emsp; Reach me anytime: adi54321kumar@gmail.com<br/><br/></h4>
 
 </p>
 
