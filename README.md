@@ -8,19 +8,19 @@
 [![walkatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h2 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank">Aditya Kumar</a></b>
         </samp>
-</h2>
+</h1>
 
 
-<h3 align="center"> 
+<h2 align="center"> 
   <samp>
     「 I am a passionate Software developer from <b>India</b> 」
     <br/>
   </samp>
-</h3>
+</h2>
 
 <p align="center">
  <a href="https://linkedin.com/in/al-siam](https://www.linkedin.com/in/aditya-kumar-86a039227/" target="_blank">
