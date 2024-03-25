@@ -81,20 +81,6 @@
 <br/>
 
 
-## Top Projects -
-[![Google-Developers-Community-Visualization-Tool](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Google-Developers-Community-Visualization-Tool&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Google-Developers-Community-Visualization-Tool)
-[![Gemini-Chat-APP](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Gemini-Chat-APP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
-[![Book-Restaurants-Seat-and-Order-Grocery](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Book-Restaurants-Seat-and-Order-Grocery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
-[![Netropolis](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Netropolis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
-<!--[![Netropolis](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Netropolis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Netropolis)
--->
-<p align="left">
-  <a href="https://github.com/soCallmeAdityaKumar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/soCallmeAdityaKumar">
@@ -116,3 +102,19 @@
 
 
 ![Aditya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=soCallmeAdityaKumar&custom_title=Aditya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Top Projects -
+[![Google-Developers-Community-Visualization-Tool](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Google-Developers-Community-Visualization-Tool&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Google-Developers-Community-Visualization-Tool)
+[![Gemini-Chat-APP](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Gemini-Chat-APP&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
+[![Book-Restaurants-Seat-and-Order-Grocery](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Book-Restaurants-Seat-and-Order-Grocery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
+[![Netropolis](https://github-readme-stats.vercel.app/api/pin/?username=soCallmeAdityaKumar&repo=Netropolis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/soCallmeAdityaKumar/Gemini-Chat-APP)
+
+<p align="left">
+  <a href="https://github.com/soCallmeAdityaKumar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
