@@ -17,7 +17,7 @@
 
 <h2 align="center"> 
   <samp>
-    「 I am a Prefinal year Student at IIT Dhanbad,India 」
+    「 I am a Final year Student at IIT Dhanbad,India 」
     <br/>
   </samp>
 </h2>
